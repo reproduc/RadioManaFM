@@ -1,6 +1,6 @@
 {
-	"name": "Radio Futura 96.9 FM",
-	"short_name": "Radio Futura 96.9 FM",
+	"name": "Radio Mana 95.5",
+	"short_name": "Radio Mana 95.5",
 	"description": "Siempre Contigo  24/7.",
 	"icons" : [
 		 {
@@ -38,3 +38,4 @@
 		"music"
 	]
 }
+
